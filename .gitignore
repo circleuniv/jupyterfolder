@@ -1,5 +1,6 @@
 .ipynb_checkpoints
+.idea
 data_small
-tutorial.jpynb
+tutorial.ipynb
 dictionary.csv
-dictlab.jpynb
+dictlab.ipynb
